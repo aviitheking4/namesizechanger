@@ -1,0 +1,34 @@
+.copy_right_footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+#divh3no1{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaYE7f-T7Dw5ANqb5NDuzVTuri-qQj0HChIw&usqp=CAU");
+    width: 60%;
+}
+
+#divh3no2{
+    background-color: aqua;
+    background-size: cover;
+    width: 50%;
+}
+
+#divh1{
+    background-color: brown;
+    width: 50%;
+}
+
+canvas
+ {
+    background-color: pink;
+    box-shadow: 5px 5px 5px  peachpuff;
+    border: 5px 5px peru;
+    margin-left: 15%;
+ }
+
+ video{
+     margin-left: 15%;
+ }
